@@ -1,7 +1,5 @@
 ## Hi there!! I am Moksha👋
-I am a final year B.Tech IT student and a beginner in Coding
--Learning Python,C++
--Learning AI, ML, Data Science
+I am a final year B.Tech IT student and a beginner in Coding.
 
 ---
 ## Skills
