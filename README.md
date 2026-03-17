@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there!! I am Moksha👋
+I am a final year B.Tech IT student and a beginner in Coding
+-Learning Python,C++
+-Learning AI, ML, Data Science
 
-<!--
-**moksha-20/moksha-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Skills
+- Python
+- C++
+- SQL
+- AI, Machine Learning
 
-Here are some ideas to get you started:
+---
+## Tools
+-DBeaver
+-MySQL
+-Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Goals
+- Learn coding while making fun projects
+
+---
+
+##  Connect with me
+- GitHub: https://github.com/moksha-20
+-Linkedin: https://linkedin.com/in/mokshaasree/
