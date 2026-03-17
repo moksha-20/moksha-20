@@ -10,9 +10,9 @@ I am a final year B.Tech IT student and a beginner in Coding.
 
 ---
 ## Tools
--DBeaver
--MySQL
--Jupyter Notebook
+- DBeaver
+- MySQL
+- Jupyter Notebook
 
 ##  Goals
 - Learn coding while making fun projects
@@ -21,4 +21,4 @@ I am a final year B.Tech IT student and a beginner in Coding.
 
 ##  Connect with me
 - GitHub: https://github.com/moksha-20
--Linkedin: https://linkedin.com/in/mokshaasree/
+- Linkedin: https://linkedin.com/in/mokshaasree/
